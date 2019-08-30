@@ -2,6 +2,7 @@
 
 [![Build Status](https://dev.azure.com/vncz/vncz/_apis/build/status/stoplightio.prism?branchName=master)](https://dev.azure.com/vncz/vncz/_build/latest?definitionId=1&branchName=master)
 [![CircleCI](https://circleci.com/gh/stoplightio/prism.svg?style=svg)](https://circleci.com/gh/stoplightio/prism)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fduanetharp%2Fprism.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fduanetharp%2Fprism?ref=badge_shield)
 
 Prism is a set of packages for API mocking with **OpenAPI v2** (formerly known as Swagger Specification) and **OpenAPI v3**.
 
@@ -71,3 +72,7 @@ In case you're interested in all logical decision we make to figure out the best
 [cli-docs]: ./docs/cli.md
 [2.x]: https://github.com/stoplightio/prism/tree/2.x
 [http-docs]: packages/http/README.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fduanetharp%2Fprism.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fduanetharp%2Fprism?ref=badge_large)
